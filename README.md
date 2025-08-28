@@ -1,4 +1,4 @@
-🐍 Learning Python: Beginner to Advanced
+🐍 Learning Python: Beginner to Intermediate
 
 This repository is a comprehensive guide to learning Python programming from scratch, designed for beginners who are just starting out and for learners who want to advance their knowledge to an expert level.
 
@@ -6,7 +6,7 @@ This repository is a comprehensive guide to learning Python programming from scr
 📌 What’s Inside
 
 
-Beginner Level
+*Beginner Level*
 
 Introduction to Python
 
@@ -19,7 +19,7 @@ Functions and Modules
 Basic Input/Output
 
 
-Intermediate Level
+*Intermediate Level*
 
 Data Structures (Lists, Tuples, Sets, Dictionaries)
 
@@ -34,7 +34,7 @@ Modules and Packages
 
 🚀 Why This Repository?
 
-Covers Python concepts step by step (beginner → advanced).
+Covers Python concepts step by step (beginner → intermediate).
 
 Includes examples, explanations, and exercises.
 
